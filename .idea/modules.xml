@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Guo_ImagLoad.iml" filepath="$PROJECT_DIR$/Guo_ImagLoad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wx_ImageLoad.iml" filepath="$PROJECT_DIR$/Wx_ImageLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
